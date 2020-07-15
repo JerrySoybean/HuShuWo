@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 212 39" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="b" color-interpolation-filters="sRGB">
+   <feGaussianBlur result="result1" stdDeviation="1"/>
+   <feComposite in="result1" in2="result1" operator="in" result="result4"/>
+   <feBlend in="result1" in2="result4" mode="screen" result="result5"/>
+   <feGaussianBlur in="result5" result="result6" stdDeviation="8"/>
+   <feComposite in="result6" in2="result5" operator="atop" result="result8"/>
+   <feComposite in="result6" in2="result8" operator="in" result="fbSourceGraphic"/>
+   <feGaussianBlur in="fbSourceGraphic" result="result0" stdDeviation="2.5"/>
+   <feSpecularLighting lighting-color="rgb(255,255,255)" in="result0" result="result1" specularConstant="1.5" specularExponent="45">
+    <fePointLight x="-6000" y="-9000" z="21000"/>
+   </feSpecularLighting>
+   <feComposite in="result1" in2="fbSourceGraphic" operator="in" result="result2"/>
+   <feComposite in="fbSourceGraphic" in2="result2" k2="1" k3="1" operator="arithmetic" result="result4"/>
+   <feComposite in="result9" in2="result4" operator="in" result="result91"/>
+   <feBlend in2="result91" mode="multiply"/>
+  </filter>
+ </defs>
+ <g stroke="#111" stroke-width=".125">
+  <g fill="#320" filter="url(#b)" stroke="none">
+   <rect x="1" y="1" width="210" height="35"/>
+  </g>
+  <g fill="#eee">
+   <rect x="2" y="2" width="4" height="30"/>
+   <rect x="6" y="2" width="4" height="30"/>
+  </g>
+  <g fill="000">
+   <rect x="4.125" y="2" width="2.5" height="20"/>
+  </g>
+  <g id="a">
+   <g fill="#eee">
+    <rect x="10" y="2" width="4" height="30"/>
+    <rect x="14" y="2" width="4" height="30"/>
+    <rect x="18" y="2" width="4" height="30"/>
+    <rect x="22" y="2" width="4" height="30"/>
+    <rect x="26" y="2" width="4" height="30"/>
+    <rect x="30" y="2" width="4" height="30"/>
+    <rect x="34" y="2" width="4" height="30"/>
+   </g>
+   <rect x="12.125" y="2" width="2.5" height="20"/>
+   <rect x="17.25" y="2" width="2.5" height="20"/>
+   <rect x="24.125" y="2" width="2.5" height="20"/>
+   <rect x="28.75" y="2" width="2.5" height="20"/>
+   <rect x="33.25" y="2" width="2.5" height="20"/>
+  </g>
+  <use transform="translate(28)" xlink:href="#a"/>
+  <use transform="translate(56)" xlink:href="#a"/>
+  <use transform="translate(84)" xlink:href="#a"/>
+  <use transform="translate(112)" xlink:href="#a"/>
+  <use transform="translate(140)" xlink:href="#a"/>
+  <use transform="translate(168)" xlink:href="#a"/>
+  <g fill="#eee">
+   <rect x="206" y="2" width="4" height="30"/>
+  </g>
+ </g>
+</svg>

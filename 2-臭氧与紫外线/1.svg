@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="225px" height="81px" viewBox="0 0 225 81" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" >
+<text x="0" y="0" stroke="transparent" fill="#000000" transform="matrix(0.0833333 0 0 0.0833333 31.925 31.6667)" style="font:normal normal normal 240px 'Times New Roman'" >
+O</text>
+<text x="0" y="0" stroke="transparent" fill="#000000" transform="matrix(0.0833333 0 0 0.0833333 46.3684 36.1667)" style="font:normal normal normal 180px 'Times New Roman'" >
+2</text>
+<path stroke="transparent" fill="#000000" transform="matrix(0.0833333 0 0 0.0833333 -73.175 -297)" d="M 2815.2,3904.5 L 1717.2,3904.5 L 1717.2,3884.5 L 2815.2,3884.5 Z " />
+<path stroke="transparent" fill="#000000" transform="matrix(0.0833333 0 0 0.0833333 -73.175 -297)" d="M 2989.2,3894.5 C 2989.2,3894.5 2789.2,3945.5 2789.2,3945.5 C 2789.2,3945.5 2814.2,3916.81 2814.2,3894.5 C 2814.2,3871.75 2789.2,3842.5 2789.2,3842.5 C 2789.2,3842.5 2989.2,3894.5 2989.2,3894.5 C 2989.2,3894.5 2989.2,3894.5 2989.2,3894.5 " />
+<path stroke="#000000" stroke-width="1" fill="transparent" transform="matrix(0.0833333 0 0 0.0833333 -73.175 -297)" d="M 2989.2,3894.5 C 2989.2,3894.5 2789.2,3945.5 2789.2,3945.5 C 2789.2,3945.5 2814.2,3916.81 2814.2,3894.5 C 2814.2,3871.75 2789.2,3842.5 2789.2,3842.5 C 2789.2,3842.5 2989.2,3894.5 2989.2,3894.5 C 2989.2,3894.5 2989.2,3894.5 2989.2,3894.5 " />
+<text x="0" y="0" stroke="transparent" fill="#000000" transform="matrix(0.0833333 0 0 0.0833333 190.925 33.3333)" style="font:normal normal normal 240px 'Times New Roman'" >
+2 </text>
+<text x="0" y="0" stroke="transparent" fill="#000000" transform="matrix(0.0833333 0 0 0.0833333 205.925 33.3333)" style="font:normal normal normal 240px 'Times New Roman'" >
+O</text>
+<text x="0" y="0" stroke="transparent" fill="#000000" transform="matrix(0.0833333 0 0 0.0833333 92.925 22)" style="font:normal normal normal 240px 'Times New Roman'" >
+UV-C</text>
+<text x="0" y="0" stroke="transparent" fill="#000000" transform="matrix(0.0833333 0 0 0.0833333 3.925 68.5)" style="font:normal normal normal 240px 'Times New Roman'" >
+O </text>
+<text x="0" y="0" stroke="transparent" fill="#000000" transform="matrix(0.0833333 0 0 0.0833333 23.3684 68.5)" style="font:normal normal normal 240px 'Times New Roman'" >
++ </text>
+<text x="0" y="0" stroke="transparent" fill="#000000" transform="matrix(0.0833333 0 0 0.0833333 39.6477 68.5)" style="font:normal normal normal 240px 'Times New Roman'" >
+O</text>
+<text x="0" y="0" stroke="transparent" fill="#000000" transform="matrix(0.0833333 0 0 0.0833333 54.091 73)" style="font:normal normal normal 180px 'Times New Roman'" >
+2</text>
+<path stroke="transparent" fill="#000000" transform="matrix(0.0833333 0 0 0.0833333 -73.175 -297)" d="M 2827.2,4346.5 L 1728,4346.5 L 1728,4326.5 L 2827.2,4326.5 Z " />
+<path stroke="transparent" fill="#000000" transform="matrix(0.0833333 0 0 0.0833333 -73.175 -297)" d="M 3001.2,4336.5 C 3001.2,4336.5 2801.2,4387.5 2801.2,4387.5 C 2801.2,4387.5 2826.2,4358.81 2826.2,4336.5 C 2826.2,4313.75 2801.2,4284.5 2801.2,4284.5 C 2801.2,4284.5 3001.2,4336.5 3001.2,4336.5 C 3001.2,4336.5 3001.2,4336.5 3001.2,4336.5 " />
+<path stroke="#000000" stroke-width="1" fill="transparent" transform="matrix(0.0833333 0 0 0.0833333 -73.175 -297)" d="M 3001.2,4336.5 C 3001.2,4336.5 2801.2,4387.5 2801.2,4387.5 C 2801.2,4387.5 2826.2,4358.81 2826.2,4336.5 C 2826.2,4313.75 2801.2,4284.5 2801.2,4284.5 C 2801.2,4284.5 3001.2,4336.5 3001.2,4336.5 C 3001.2,4336.5 3001.2,4336.5 3001.2,4336.5 " />
+<text x="0" y="0" stroke="transparent" fill="#000000" transform="matrix(0.0833333 0 0 0.0833333 198.925 68.5)" style="font:normal normal normal 240px 'Times New Roman'" >
+O</text>
+<text x="0" y="0" stroke="transparent" fill="#000000" transform="matrix(0.0833333 0 0 0.0833333 213.368 73)" style="font:normal normal normal 180px 'Times New Roman'" >
+3</text>
+</svg>
